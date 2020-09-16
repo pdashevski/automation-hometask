@@ -17,3 +17,5 @@
 На заре голоса зовут меня
 На заре небеса зовут меня
 На заре
+
+It's a line for the second commit in feature.
